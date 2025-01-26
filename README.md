@@ -1,39 +1,35 @@
-# [Project Name] 🎯
+# FITFORHIM 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: GALS
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: Aavani U B - LBS Institute Of Technology For Women
+- Member 2: Gatha R -  LBS Institute Of Technology For Women
+- Member 3: Liyana Shirin A A -  LBS Institute Of Technology For Women
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+http://127.0.0.1:3000/index.html
 
 ### Project Description
-[2-3 lines about what your project does]
+
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+Fitforhim is an online platform dedicated to supporting men's mental wellness and stress relief through a curated range of products designed to enhance both physical and emotional well-being. Offering a variety of high-quality products—such as supplements, stress-reducing tools, mindfulness aids, and relaxation items—Fitforhim provides men with the resources they need to manage stress effectively and maintain mental clarity. Whether it's natural supplements to promote relaxation, products for improving sleep, or tools for mindfulness practices, Fitforhim empowers men to prioritize their mental health and achieve a balanced, healthier lifestyle.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- HTML,CSS,JAVA
+- NIL
+- LOCOMOTIVE-SCROLL
+- VS CODE,CANVA(FOR THE VIDEO),GIT,GITHUB
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
 
 ### Implementation
 For Software:
@@ -56,18 +52,7 @@ For Software:
 ![Screenshot3](Add screenshot 3 here with proper name)
 *Add caption explaining what this shows*
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
 
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
 
 # Build Photos
 ![Team](Add photo of your team here)
@@ -87,13 +72,12 @@ For Hardware:
 [Add your demo video link here]
 *Explain what the video demonstrates*
 
-# Additional Demos
-[Add any extra demo materials/links]
+
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Aavani U B: Front end
+- Gatha R: front end
+- Liyana Shirin A A:front end
 
 ---
 Made with ❤️ at TinkerHub
